@@ -1,0 +1,26 @@
+{
+  "name": "weathergov-wrapper",
+  "version": "1.0.0",
+  "description": "weather.gov api wrapper mainly for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travdev17/weathergov-wrapper.git"
+  },
+  "keywords": [
+    "weather",
+    "weathergov",
+    "wrapper",
+    "nodejs",
+    "node"
+  ],
+  "author": "Travdev17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Travdev17/weathergov-wrapper/issues"
+  },
+  "homepage": "https://github.com/Travdev17/weathergov-wrapper#readme"
+}
